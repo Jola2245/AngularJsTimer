@@ -1,0 +1,44 @@
+[
+  {
+    "outputFileName": "app.config.min.js",
+    "inputFiles": [
+      "app.config.js"
+    ]
+  },
+  {
+    "outputFileName": "app.min.css",
+    "inputFiles": [
+      "app.css"
+    ]
+  },
+  {
+    "outputFileName": "app.module.min.js",
+    "inputFiles": [
+      "app.module.js"
+    ]
+  },
+  {
+    "outputFileName": "timer/timer.component.min.js",
+    "inputFiles": [
+      "timer/timer.component.js"
+    ]
+  },
+  {
+    "outputFileName": "timer/timer.module.min.js",
+    "inputFiles": [
+      "timer/timer.module.js"
+    ]
+  },
+  {
+    "outputFileName": "timer/timer.component.min.js",
+    "inputFiles": [
+      "timer/timer.component.js"
+    ]
+  },
+  {
+    "outputFileName": "timer/timer.module.min.js",
+    "inputFiles": [
+      "timer/timer.module.js"
+    ]
+  }
+]
